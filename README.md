@@ -1,14 +1,9 @@
 ### Hi there 👋 I am Kihwan Hong from South Korea.
 
-
-**airaider/airaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at Hyundai Autoever  
 - 🌱 I’m currently learning React, AWS and Docker  
 
-## My Skill Set  
+### My Skill Set  
 <table><tr><td valign="top" width="33%">
   
 ### Framework  
